@@ -6,11 +6,8 @@ public class HelloWorld{
         System.out.print("Enter your name: ");
         String name = scan.next();
         System.out.println("Hi "+name+", This is Hello World Program");
-<<<<<<< HEAD
         System.out.println("xxxxxxxx");
-=======
-        System.out.println("---------");
->>>>>>> main
+        System.out.println("--------");
         scan.close();
     }
 }
